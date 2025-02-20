@@ -9,5 +9,6 @@ public class FullName {
 
         // Print the output
         System.out.println("Hello, my name is " + fullName + ".");
+        System.out.println("Hello, my name is " + fullName + ".");
     }
 }
