@@ -12,7 +12,7 @@ public class GreetingProgram {
 
         // Output: Display the greeting
         System.out.println(greeting);
-
+        System.out.println(greeting);
         scanner.close();
     }
 }
